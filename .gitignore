@@ -4,3 +4,4 @@
 *.sqlite3
 manage.py
 settings.py
+*.pyc
