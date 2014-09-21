@@ -1,0 +1,6 @@
+.pydevproject
+.project
+.settings
+*.sqlite3
+manage.py
+settings.py
